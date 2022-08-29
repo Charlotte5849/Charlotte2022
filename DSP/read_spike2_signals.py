@@ -76,7 +76,7 @@ def get_channel_info(f, smrx_ch_ind):
 
 with open('filepathname.csv', newline='') as csvfile:
 
-  # Read the file row-by-row
+  # Read the file line-by-line
   rows = csv.reader(csvfile)
   
   for row in rows:
