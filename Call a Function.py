@@ -1,4 +1,4 @@
-from TMU import TMU
+from NameList import NameList
 class student(TMU):
   def __init__(self, name, number):
         self.name = name
