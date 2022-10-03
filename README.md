@@ -40,7 +40,7 @@ Here are the rules of this game :
 1. You'll get a hint with a range of the secret number according to your guess.
 2. Guess until you reach the secret number!
 
-## Call a Function.py
+## CallaFunction.py
 ### It should be run NameList.py
 
-
+## DateTransformer.py
