@@ -3,6 +3,7 @@ basic "for loop" practices
 
 ## Ex6
 Output of Ex6 is a Christmas tree like this.
+
 ![alt 文字](https://github.com/Charlotte5849/Charlotte2022/blob/Python/Christmastree.png "Merry Christmas!")
 
 ## input.txt
