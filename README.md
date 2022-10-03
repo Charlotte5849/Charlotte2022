@@ -31,3 +31,13 @@ Here are the rules of this game :
 6. Minus 80 points when you guess 3 words wrong, and so on.
 
 Hope you enjoy the game!
+
+## GuessMyNumbersGame_v1.py
+Enter your student ID and your name before you start the game.
+Here are the rules of this game :
+1. You'll get a hint with a range of the secret number according to your guess.
+2. Guess until you reach the secret number!
+
+
+## GuessMyNumbersGame_v2.py
+
