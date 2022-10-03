@@ -10,7 +10,7 @@ Created on Wed Oct 27 16:26:22 2021
 
 
 #open input file
-inputfile=open('input_Ex12.txt','r')
+inputfile=open('input_v1.txt','r')
 
 #get the next answer from input file
 line=inputfile.readline()
