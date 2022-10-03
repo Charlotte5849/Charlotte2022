@@ -2,7 +2,8 @@
 basic "for loop" practices
 
 ## Ex6
-Output of Ex6 is a Christmas tree.
+Output of Ex6 is a Christmas tree like this.
+
 
 ## input.txt
 It's a question pool of GuessMywordsGame_v1.py and GuessMywordsGame_v2.py
