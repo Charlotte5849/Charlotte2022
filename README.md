@@ -32,12 +32,10 @@ Here are the rules of this game :
 
 Hope you enjoy the game!
 
-## GuessMyNumbersGame_v1.py
+## GuessMyNumbersGame.py
 Enter your student ID and your name before you start the game.
 Here are the rules of this game :
 1. You'll get a hint with a range of the secret number according to your guess.
 2. Guess until you reach the secret number!
 
-
-## GuessMyNumbersGame_v2.py
 
