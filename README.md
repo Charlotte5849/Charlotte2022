@@ -4,8 +4,11 @@ basic "for loop" practices
 ## Ex6
 Output of Ex6 is a Christmas tree.
 
+## input.txt
+It's a question pool of GuessMywordsGame_v1.py and GuessMywordsGame_v2.py
 
 ## GuessMyWordsGame_v1.py
+### should be run with input.txt
 Here are the rules of this game :
 
 1. Get 150 points when you guess 1 word which have more than 5 alphabets, include 5, right.
@@ -16,6 +19,7 @@ Here are the rules of this game :
 Hope you enjoy the game!
 
 ## GuessMyWordsGame_v2.py
+### should be run with input.txt
 It's a new version of Guess My Words game.
 Here are the rules of this game :
 
